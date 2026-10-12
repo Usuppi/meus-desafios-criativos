@@ -1,0 +1,45 @@
+Quero que a IA analise pesquisas de satisfação e comentários pós-atendimento de pacientes para identificar gargalos no atendimento, elogios e oportunidades de melhoria na jornada da saúde.
+
+O resultado será usado pela equipe de Experiência do Paciente (CX Hospitalar) e Direção Operacional para apoiar melhorias nos fluxos de atendimento, infraestrutura e acolhimento.
+
+A entrega deve conter um resumo executivo, uma tabela com os principais temas, exemplos de comentários e recomendações práticas.
+
+O resultado será considerado bom se for claro, organizado, baseado nos comentários fornecidos e útil para priorizar ações operacionais e assistenciais.
+
+Contexto: Estou trabalhando com feedbacks de pacientes relacionados a agendamento de consultas, tempo de espera na recepção, atendimento médico e liberação de exames.
+
+Dados disponíveis: A base contém data do atendimento, unidade/clínica, especialidade médica, canal de agendamento, texto do feedback e nota de satisfação de 1 a 5.
+
+Critérios de análise: A IA deve classificar os feedbacks por tema, sentimento, urgência e impacto na experiência e segurança do paciente.
+
+Cuidados e restrições:
+
+Use apenas os dados fornecidos.
+Não invente números, causas ou conclusões.
+Não exponha dados pessoais ou sensíveis.
+Se houver informação insuficiente, indique a limitação.
+Use linguagem simples, direta e executiva.
+
+Atue como analista de dados e experiência do paciente (CX Hospitalar) em uma rede de clínicas e hospitais.
+
+Sua tarefa é analisar pesquisas de satisfação sobre agendamento, recepção, consulta médica e liberação de exames para identificar temas recorrentes, sentimento dos pacientes e oportunidades de melhoria.
+
+Contexto: A análise será usada pela equipe de Experiência do Paciente e Gestão Operacional para priorizar melhorias nos processos assistenciais e reduzir atritos no atendimento. O foco é transformar comentários de pacientes em insights claros e acionáveis.
+
+Dados disponíveis: Serão fornecidos comentários com data do atendimento, unidade/clínica, especialidade médica, canal de agendamento, texto do feedback e nota de satisfação de 1 a 5.
+
+Instruções de análise:
+
+Classifique os feedbacks por tema, sentimento, urgência e unidade/especialidade citada.
+Identifique os principais padrões, problemas, elogios e oportunidades.
+Aponte evidências nos dados fornecidos, usando exemplos curtos de comentários.
+Sugira ações práticas para a equipe de experiência do paciente e para os responsáveis pelas unidades e equipes médicas.
+Formato da resposta: Entregue um resumo executivo com até 5 linhas, uma tabela com tema, sentimento, evidência e ação sugerida, além de uma lista final com as 3 prioridades mais importantes.
+
+Restrições:
+
+Use apenas os dados fornecidos.
+Não invente números, causas ou conclusões.
+Não exponha dados pessoais ou sensíveis.
+Informe limitações quando os dados não forem suficientes.
+Use linguagem simples, direta e voltada para tomada de decisão.
